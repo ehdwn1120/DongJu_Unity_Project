@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3cbaaeb6-7931-4b04-99cd-76147a6c390f": {
+      "ProjectGuid": "3cbaaeb6-7931-4b04-99cd-76147a6c390f",
+      "DisplayName": "FirstProject",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "기타 파일",
+      "ColorIndex": -1
+    },
+    "c996e12a-5b57-4fc2-8bff-551d965f40fc": {
+      "ProjectGuid": "c996e12a-5b57-4fc2-8bff-551d965f40fc",
+      "DisplayName": "Variables",
+      "ColorIndex": 1
+    },
+    "a28b4d3a-eaa6-493d-a103-2f63f1e12d6c": {
+      "ProjectGuid": "a28b4d3a-eaa6-493d-a103-2f63f1e12d6c",
+      "DisplayName": "Methods",
+      "ColorIndex": 2
+    },
+    "dee1df6e-b51f-47f7-bfd1-224974f0c5f9": {
+      "ProjectGuid": "dee1df6e-b51f-47f7-bfd1-224974f0c5f9",
+      "DisplayName": "ClassUsageBasic",
+      "ColorIndex": 3
+    },
+    "f9699b96-282e-43fb-ae07-4f6851926ba6": {
+      "ProjectGuid": "f9699b96-282e-43fb-ae07-4f6851926ba6",
+      "DisplayName": "Example01_ClassObjectInstance",
+      "ColorIndex": 4
+    },
+    "8673fe95-7b9b-4f13-a2b3-9aed65640796": {
+      "ProjectGuid": "8673fe95-7b9b-4f13-a2b3-9aed65640796",
+      "DisplayName": "Statement_If",
+      "ColorIndex": 5
+    },
+    "0e5615e7-8ba6-4ad6-bd44-84cbbdfe60e0": {
+      "ProjectGuid": "0e5615e7-8ba6-4ad6-bd44-84cbbdfe60e0",
+      "DisplayName": "Operators",
+      "ColorIndex": 6
+    },
+    "051e48b1-2160-4f8a-b53e-bd8fd3c6ce16": {
+      "ProjectGuid": "051e48b1-2160-4f8a-b53e-bd8fd3c6ce16",
+      "DisplayName": "Array",
+      "ColorIndex": 7
+    },
+    "d308c8bb-1d90-4861-ba42-bd83b53e185c": {
+      "ProjectGuid": "d308c8bb-1d90-4861-ba42-bd83b53e185c",
+      "DisplayName": "Array2Dimension",
+      "ColorIndex": 8
+    },
+    "b810aac8-dfb5-4c41-8a9e-9ff03738c0fe": {
+      "ProjectGuid": "b810aac8-dfb5-4c41-8a9e-9ff03738c0fe",
+      "DisplayName": "Statement_Loops",
+      "ColorIndex": 9
+    },
+    "3112fbf3-8bdb-432d-be29-f85a8ba52fe1": {
+      "ProjectGuid": "3112fbf3-8bdb-432d-be29-f85a8ba52fe1",
+      "DisplayName": "Statement_SwitchCase",
+      "ColorIndex": 10
+    },
+    "bf1b5fcd-fe49-48a7-9c67-344016edc348": {
+      "ProjectGuid": "bf1b5fcd-fe49-48a7-9c67-344016edc348",
+      "DisplayName": "Structure",
+      "ColorIndex": 11
+    },
+    "84d81d08-9da8-4062-9d85-8535f04579e8": {
+      "ProjectGuid": "84d81d08-9da8-4062-9d85-8535f04579e8",
+      "DisplayName": "Example02_HorseRacing",
+      "ColorIndex": 12
+    },
+    "f40159d3-f903-4c26-ad8e-54c987fe21b6": {
+      "ProjectGuid": "f40159d3-f903-4c26-ad8e-54c987fe21b6",
+      "DisplayName": "ClassInheritanceAndPolymorphism",
+      "ColorIndex": 13
+    },
+    "d866655f-53be-4a38-b076-a3e3f6566259": {
+      "ProjectGuid": "d866655f-53be-4a38-b076-a3e3f6566259",
+      "DisplayName": "Collections",
+      "ColorIndex": 14
+    },
+    "6dc87933-aed3-4b24-b89a-27ab6f4a88af": {
+      "ProjectGuid": "6dc87933-aed3-4b24-b89a-27ab6f4a88af",
+      "DisplayName": "Example03_DynamicArray",
+      "ColorIndex": 15
+    },
+    "dc58a62f-ddd1-4edb-a0cf-9ea156f453c6": {
+      "ProjectGuid": "dc58a62f-ddd1-4edb-a0cf-9ea156f453c6",
+      "DisplayName": "Example04_MyLinkedList",
+      "ColorIndex": 0
+    },
+    "2b56838a-052d-4631-b0d5-746279113fd2": {
+      "ProjectGuid": "2b56838a-052d-4631-b0d5-746279113fd2",
+      "DisplayName": "Example05_MyHashtable",
+      "ColorIndex": 1
+    },
+    "db4caf84-8520-446b-8666-8cc5f0bcfaf9": {
+      "ProjectGuid": "db4caf84-8520-446b-8666-8cc5f0bcfaf9",
+      "DisplayName": "Example06_RollADice",
+      "ColorIndex": 2
+    },
+    "f3a1b4c1-c455-4bde-b10f-1a46cfdc5808": {
+      "ProjectGuid": "f3a1b4c1-c455-4bde-b10f-1a46cfdc5808",
+      "DisplayName": "Delegate",
+      "ColorIndex": 3
+    },
+    "d2f96eac-890d-4f10-a610-ee9c6b58ebc6": {
+      "ProjectGuid": "d2f96eac-890d-4f10-a610-ee9c6b58ebc6",
+      "DisplayName": "Delegate",
+      "ColorIndex": 4
+    },
+    "13b9d119-c84c-473a-bfef-a4b5b9721438": {
+      "ProjectGuid": "13b9d119-c84c-473a-bfef-a4b5b9721438",
+      "DisplayName": "Delegate",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

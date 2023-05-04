@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sdq9wiSrLXy6gZ8iTYX5BzgARKCUm5PozCds0I+gcHrsZmrfzUb/voDUfEBL3yfp5UrrJyMTZH9Iw7xW6my5Ow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\ㄷㅈ\\UnityEngineBasic_Sat_2th-main\\CSharp\\CSharpBasic\\Example06_RollADice\\Example06_RollADice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "r50K6aTCgBh3kO09QnmGWTzcyZbJZPewO8W4iFJkLHT8tQPPfm6yYM9VHkzgOVNO8DB9c/x1yx1V+Z5AqOqeLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\ㄷㅈ\\UnityEngineBasic_Sat_2th-main\\CSharp\\CSharpBasic\\ClassUsageBasic\\ClassUsageBasic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

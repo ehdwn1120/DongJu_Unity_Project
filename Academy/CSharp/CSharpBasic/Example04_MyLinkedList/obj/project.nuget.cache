@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "i1dBvL5+EhZzq3AgSxTVa9b9wnFPL+KsnjPxa8BnMpU6HW44ITrwVFUWuat6mFJz+M4R0/R6cGgiN3kaFdaoXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\ㄷㅈ\\UnityEngineBasic_Sat_2th-main\\CSharp\\CSharpBasic\\Example04_MyLinkedList\\Example04_MyLinkedList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
